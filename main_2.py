@@ -22,8 +22,8 @@ motor_d_backward = Pin(11, Pin.OUT)
 
 
 # Wi-Fi credentials
-ssid = 'robosoccer'
-password = 'iitmadras'
+ssid = 'Galaxy A23'
+password = 'qprd5717'
 
 def move_forward():
     motor_a_forward.value(1)
